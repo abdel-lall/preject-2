@@ -1,16 +1,16 @@
 {
   "development": {
-    "username": "root",
-    "password": "Eexy6993+",
+    "username": "dslnsfyyc6i9j2uh",
+    "password": "y83eq4nqvi21yyo9",
     "database": "wishlist_db_test",
-    "host": "localhost",
+    "host": "xefi550t7t6tjn36.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": "Eexy6993+",
-    "database": "wishlist_db_test",
-    "host": "localhost",
+    "username": "dslnsfyyc6i9j2uh",
+    "password": "y83eq4nqvi21yyo9",
+    "database": "zk4cqwjwxqlyi1q3",
+    "host": "xefi550t7t6tjn36.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql",
     "logging": false
   },
